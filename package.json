@@ -1,0 +1,21 @@
+{
+  "name": "quicktext",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.16.1",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.3.0",
+    "mongoose": "^5.10.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "mongodb": "^3.6.0"
+  }
+}
